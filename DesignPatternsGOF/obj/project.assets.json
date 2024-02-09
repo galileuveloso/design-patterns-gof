@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetos\\design-patterns-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
+      "projectUniqueName": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
       "projectName": "DesignPatternsGOF",
-      "projectPath": "C:\\projetos\\design-patterns-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
+      "projectPath": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
       "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-      "outputPath": "C:\\projetos\\design-patterns-gof\\DesignPatternsGOF\\obj\\",
+      "outputPath": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

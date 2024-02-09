@@ -1,0 +1,17 @@
+﻿using DesignPatternsGOF.Creational.FactoryMethod.Interfaces;
+
+namespace DesignPatternsGOF.Creational.FactoryMethod.Services
+{
+    public class Roof : IService
+    {
+        public Roof()
+        {
+            Console.WriteLine("Product Roof created."); 
+        }
+
+        public void Charge()
+        {
+            //logic
+        }
+    }
+}

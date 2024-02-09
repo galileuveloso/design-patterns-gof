@@ -7,4 +7,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Behavioral\" />
+    <Folder Include="Creational\Singleton\" />
+    <Folder Include="Creational\Builder\" />
+    <Folder Include="Creational\Prototype\" />
+    <Folder Include="Creational\AbstractMethod\" />
+    <Folder Include="Structural\" />
+  </ItemGroup>
+
 </Project>
