@@ -6,7 +6,7 @@ namespace DesignPatternsGOF.Creational.FactoryMethod.Services
     {
         public Master()
         {
-            Console.WriteLine("Product Master created.");
+            Console.WriteLine("Product Master created.\n");
         }
 
         public void Charge()

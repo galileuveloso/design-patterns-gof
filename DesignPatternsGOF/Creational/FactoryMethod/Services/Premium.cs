@@ -6,7 +6,7 @@ namespace DesignPatternsGOF.Creational.FactoryMethod.Services
     {
         public Premium()
         {
-            Console.WriteLine("Product Premium created.");
+            Console.WriteLine("Product Premium created.\n");
         }
 
         public void Charge()

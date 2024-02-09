@@ -5,6 +5,6 @@ namespace DesignPatternsGOF.Creational.FactoryMethod
 {
     public abstract class Factory
     {
-        public abstract IService FactoryProduct(TypeService typeService);
+        public abstract IService FactoryProduct(ServiceType typeService);
     }
 }

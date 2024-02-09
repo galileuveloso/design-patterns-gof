@@ -6,7 +6,7 @@ namespace DesignPatternsGOF.Creational.FactoryMethod.Services
     {
         public Traditional()
         {
-            Console.WriteLine("Product Traditional created.");
+            Console.WriteLine("Product Traditional created. \n");
         }
 
         public void Charge()

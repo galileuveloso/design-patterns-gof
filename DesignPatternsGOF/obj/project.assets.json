@@ -8,8 +8,9 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\galil\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\galileu.veloso\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -17,23 +18,27 @@
       "projectUniqueName": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
       "projectName": "DesignPatternsGOF",
       "projectPath": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
-      "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\galileu.veloso\\.nuget\\packages\\",
       "outputPath": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\galileu.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.mps.com.br/nuget": {}
       },
       "frameworks": {
         "net8.0": {

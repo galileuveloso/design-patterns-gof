@@ -6,7 +6,7 @@ namespace DesignPatternsGOF.Creational.FactoryMethod.Services
     {
         public Roof()
         {
-            Console.WriteLine("Product Roof created."); 
+            Console.WriteLine("Product Roof created.\n"); 
         }
 
         public void Charge()

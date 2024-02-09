@@ -1,6 +1,6 @@
 ﻿namespace DesignPatternsGOF.Creational.FactoryMethod.Enums
 {
-    public enum TypeService
+    public enum ServiceType
     {
         None,
         Traditional,
