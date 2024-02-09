@@ -1,3 +1,3 @@
-﻿using DesignPatternsGOF.Creational.FactoryMethod;
-
-new Client().Execute();
+﻿//TODO: Menu
+//new DesignPatternsGOF.Creational.FactoryMethod.Client().Execute();
+new DesignPatternsGOF.Creational.AbstractFactory.Client().Execute();
