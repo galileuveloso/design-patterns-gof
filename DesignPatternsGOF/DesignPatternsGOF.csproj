@@ -9,7 +9,12 @@
 
   <ItemGroup>
     <Folder Include="Behavioral\" />
-    <Folder Include="Structural\" />
+    <Folder Include="Structural\Flyweigth\" />
+    <Folder Include="Structural\Bridge\" />
+    <Folder Include="Structural\Composite\" />
+    <Folder Include="Structural\Decorator\" />
+    <Folder Include="Structural\Facade\" />
+    <Folder Include="Structural\Proxy\" />
   </ItemGroup>
 
 </Project>
