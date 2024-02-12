@@ -4,4 +4,5 @@
 //new DesignPatternsGOF.Creational.Singleton.Client().Execute();
 //new DesignPatternsGOF.Creational.Builder.Client().Execute();
 //new DesignPatternsGOF.Creational.Prototype.Client().Execute();
-new DesignPatternsGOF.Structural.Adapter.Client().Execute();
+//new DesignPatternsGOF.Structural.Adapter.Client().Execute();
+new DesignPatternsGOF.Structural.Flyweight.Client().Execute();
