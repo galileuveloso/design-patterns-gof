@@ -6,4 +6,5 @@
 //new DesignPatternsGOF.Creational.Prototype.Client().Execute();
 //new DesignPatternsGOF.Structural.Adapter.Client().Execute();
 //new DesignPatternsGOF.Structural.Flyweight.Client().Execute();
-new DesignPatternsGOF.Structural.Bridge.Client().Execute();
+//new DesignPatternsGOF.Structural.Bridge.Client().Execute();
+new DesignPatternsGOF.Structural.Composite.Client().Execute();
