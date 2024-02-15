@@ -8,4 +8,5 @@
 //new DesignPatternsGOF.Structural.Flyweight.Client().Execute();
 //new DesignPatternsGOF.Structural.Bridge.Client().Execute();
 //new DesignPatternsGOF.Structural.Composite.Client().Execute();
-new DesignPatternsGOF.Structural.Decorator.Client().Execute();
+//new DesignPatternsGOF.Structural.Decorator.Client().Execute();
+new DesignPatternsGOF.Structural.Facade.Client().Execute();
