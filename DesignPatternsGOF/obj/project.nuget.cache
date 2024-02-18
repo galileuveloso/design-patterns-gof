@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "syfoTD/HBkamqDQ79IRenn5l72sa0yKXnhEBfLMM5JnOkd2jn/VuJ0VIcgJaaeeGHZq5qWGgOEewMnYQmI/QTQ==",
+  "dgSpecHash": "LhoGysnDzGszsDhD2wNlHFG0zpZCz3S5OMPchVtCOTTnytetrswD5J/9zYnS7TGVwOFpBNniZeNG00Umt2YOhg==",
   "success": true,
   "projectFilePath": "C:\\projetos\\design-pattern-gof\\DesignPatternsGOF\\DesignPatternsGOF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\galil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
