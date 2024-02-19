@@ -11,4 +11,4 @@
 //new DesignPatternsGOF.Structural.Decorator.Client().Execute();
 //new DesignPatternsGOF.Structural.Facade.Client().Execute();
 //new DesignPatternsGOF.Structural.Proxy.Client().Execute();
-new DesignPatternsGOF.Behavioral.TemplateMethod.Client().Execute();
+new DesignPatternsGOF.Behavioral.Interpreter.Client().Execute();
